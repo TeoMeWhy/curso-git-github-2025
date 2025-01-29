@@ -50,6 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+- João Pedro Patriota
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
