@@ -10,4 +10,6 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+- Bruno Lelis
 - Téo
+- 
