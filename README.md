@@ -49,7 +49,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 ----
 
 Pessoas participantes:
-
+- Barbara C Silva
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
