@@ -56,7 +56,7 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 ----
 
 Pessoas participantes:
-
+- Fernanda Dias
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
