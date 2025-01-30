@@ -50,6 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+- Gabriel Bertolini
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
