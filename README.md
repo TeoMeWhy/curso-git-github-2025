@@ -57,6 +57,7 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 Pessoas participantes:
 
+- Daniel Ribeiro
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
