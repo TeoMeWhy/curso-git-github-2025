@@ -37,7 +37,7 @@ _Coleção da Twitch_ - [Curso Git GitHub 2025](https://www.twitch.tv/collection
 
 06. git commit -m "nova mensagem" - _Exemplo: git commit -m "mudança no README"_
 
-07.  git checkout main -_retornar para branch "main"_
+07.  git checkout main - _retornar para branch "main"_
 
 08. git merge nova_branch - _unir informações da branch "secundaria" com a "main"_
 
