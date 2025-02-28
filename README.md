@@ -62,6 +62,6 @@ Pessoas participantes:
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
-- Patricia Bersi
+- Patrícia Bersi
 - Tales
 - Téo Calvo
