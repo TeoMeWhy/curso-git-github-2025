@@ -4,7 +4,9 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
+Confira tudo o que temos no nosso YouTube. É gratis! Segue o link: (amanhã promoção)
+
+[Curso Git 2025](https://youtube.com/@teomewhy) - wwwww
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
@@ -13,6 +15,9 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
+
+Além do nosso Youtube, se liga no nosso site e agenda para ficar por dentro de tudo em 2025
+
 
 ## Fluxo de trabalho Git local
 
@@ -58,6 +63,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
+- Elivelto Maciel
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
