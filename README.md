@@ -62,5 +62,7 @@ Pessoas participantes:
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
+- Rodrigo Lucho
 - Tales
 - Téo Calvo
+
