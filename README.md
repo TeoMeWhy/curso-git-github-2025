@@ -63,4 +63,6 @@ Pessoas participantes:
 - Leo Medeiros
 - Mateus Dantas
 - Tales
+- Taylor Tomé
 - Téo Calvo
+
