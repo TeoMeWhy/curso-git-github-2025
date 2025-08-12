@@ -62,6 +62,6 @@ Pessoas participantes:
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
-- Pedro Arhut
+- Pedro Arthur
 - Tales
 - Téo Calvo
