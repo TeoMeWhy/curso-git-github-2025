@@ -63,4 +63,5 @@ Pessoas participantes:
 - Leo Medeiros
 - Mateus Dantas
 - Tales
+- Talyta Nogueira
 - Téo Calvo
