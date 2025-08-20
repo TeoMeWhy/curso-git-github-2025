@@ -54,7 +54,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 12. git checkout main
 13. git branch -D <nova_branch>
 
-----
+-----
 
 Pessoas participantes:
 
