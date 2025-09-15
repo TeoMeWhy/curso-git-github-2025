@@ -61,6 +61,7 @@ Pessoas participantes:
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
+- Luan Lincon
 - Mateus Dantas
 - Tales
 - Téo Calvo
