@@ -1,0 +1,1 @@
+print('Olá, o intuito aqui é fazer um checklist dos processos e features para realizar o trabalho com Git.')
