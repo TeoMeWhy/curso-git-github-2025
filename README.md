@@ -50,6 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+- Daniel Dezan
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
