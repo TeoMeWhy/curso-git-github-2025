@@ -58,5 +58,5 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-- João Paulo
+- João Paulo 
 - Téo Calvo
