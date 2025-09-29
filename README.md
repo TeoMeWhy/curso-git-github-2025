@@ -58,9 +58,5 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-- Igor Dammous
-- Infoslack
-- Leo Medeiros
-- Mateus Dantas
-- Tales
-- Téo Calvo
+- Giovany Alves
+- Teo Calvo
