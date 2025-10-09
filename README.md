@@ -62,6 +62,6 @@ Pessoas participantes:
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
-- lucas m
+- lucas_m
 - Tales
 - Téo Calvo
