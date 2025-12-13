@@ -62,6 +62,6 @@ Pessoas participantes:
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
-- Matheus Costa
+- Matheus "Yugen" Costa
 - Tales
 - Téo Calvo
