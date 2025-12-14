@@ -64,3 +64,5 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- Fabio Fatureto
+
