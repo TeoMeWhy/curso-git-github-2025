@@ -58,12 +58,11 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
+- Fabio Fatureto
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
 - Tales
 - Téo Calvo
-- Fabio Fatureto
-- fabio fatureto
 
