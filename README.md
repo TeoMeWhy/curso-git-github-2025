@@ -65,5 +65,5 @@ Pessoas participantes:
 - Tales
 - Téo Calvo
 - Fabio Fatureto
-- fabio fatureto 2
+- fabio fatureto
 
