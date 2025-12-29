@@ -60,6 +60,7 @@ Pessoas participantes:
 
 - Igor Dammous
 - Infoslack
+- Júlio Barreto
 - Leo Medeiros
 - Mateus Dantas
 - Tales
