@@ -64,3 +64,4 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- Joao Rocha
