@@ -58,6 +58,8 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
+
+- Breno Brazolotti
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
