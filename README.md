@@ -64,3 +64,8 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+
+
+----
+
+- Testando no Vs Code
