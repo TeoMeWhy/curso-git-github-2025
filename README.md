@@ -58,8 +58,8 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-
-- Guilherme
+ 
+- Guilherme  Ferreira
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
