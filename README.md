@@ -57,7 +57,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 ----
 
 Pessoas participantes:
-
+- Dex_data
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
