@@ -57,7 +57,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 ----
 
 Pessoas participantes:
-
+- bianca-helena
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
