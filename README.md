@@ -58,6 +58,6 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-
+Luísa Costinha
 - Téo Calvo
 -Costinha
