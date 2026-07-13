@@ -64,3 +64,6 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+
+Novos participantes:
+- Doug
