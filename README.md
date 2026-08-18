@@ -64,4 +64,4 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
-- Shandler
+- Shandler Rodrigues
