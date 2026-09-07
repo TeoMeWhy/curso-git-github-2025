@@ -14,7 +14,7 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
-## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local:
 
 01. git checkout -b <nova-branch>
 02. cria ou atualiza arquivos
@@ -24,6 +24,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 07. git commit -m "minha mensagem"
 08. git checkout main
 09. git merge nova_branch
+
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 01. git clone <endereco do projeto>
@@ -54,13 +55,10 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 12. git checkout main
 13. git branch -D <nova_branch>
 
-----
+0000000000000000000000000000000000000
+----------------
 
 Pessoas participantes:
 
-- Igor Dammous
-- Infoslack
-- Leo Medeiros
-- Mateus Dantas
-- Tales
+- Carol Brito
 - Téo Calvo
