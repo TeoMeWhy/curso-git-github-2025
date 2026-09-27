@@ -12,6 +12,8 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
+Aqui estarei alterando no readme, pois não fiz o curso ao vivo com a galera. Então pelo menos estou deixando minha marca.
+
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 ## Fluxo de trabalho Git local
